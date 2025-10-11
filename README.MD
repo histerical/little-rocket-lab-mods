@@ -4,9 +4,13 @@ This repository contains releases for mods developed for the game *Little Rocket
 
 ## Available Mods
 
-- [Toasty Break Rock](https://github.com/histerical/little-rocket-lab-mods/releases/latest) - Allows Toasty to break rocks (Be aware if you get to close to a large resource, it will break it and either crash or freeze your game for a while).
+- [Toasty Break Rock](https://github.com/histerical/little-rocket-lab-mods/releases/latest) - Allows Toasty to break rocks. 
+> [!WARNING]  
+> (Be aware if you get to close to a large resource, it will break it and either crash or freeze your game for a while).
+
 - [Infinite Resources](https://github.com/histerical/little-rocket-lab-mods/releases/latest) - Pretty simple, makes resources infinite.
-- [Time Bender](https://github.com/histerical/little-rocket-lab-mods/releases/latest) - Allows you to control time! Currently only able to pause time, but new config coming out soon to just slow down time.
+
+- [Time Bender](https://github.com/histerical/little-rocket-lab-mods/releases/latest) - Allows you to control time! Currently only able to pause time (hotkey: F8), but new config coming out soon to just slow down time.
 
 ## Installation
 
