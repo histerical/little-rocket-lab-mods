@@ -12,6 +12,8 @@ This repository contains releases for mods developed for the game *Little Rocket
 
 - [Time Bender](https://github.com/histerical/little-rocket-lab-mods/releases/latest) - Allows you to control time! Currently only able to pause time (hotkey: F8), but new config coming out soon to just slow down time.
 
+- [Longer Reach](https://github.com/histerical/little-rocket-lab-mods/releases/latest) - Enables you to interact with everything on your screen. You can place buildings from long range, quickly go into a building or hop on Toasty from across your screen.
+
 ## Installation
 
 1. Download the latest release for the desired mod from the [Releases](https://github.com/histerical/little-rocket-lab-mods/releases) page.
